@@ -1,2 +1,3 @@
 NPM : 1806269833
 Nama : Wiyata Mandalaputra
+Jurusan : Sistem Informasi
